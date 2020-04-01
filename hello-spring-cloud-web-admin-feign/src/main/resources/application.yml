@@ -24,7 +24,7 @@ eureka:
 #spring:
 #  cloud:
 #    config:
-#      uri: http://localhost:8888
+#      uri: http://localhost:8888   #通过hello-spring-cloud-config 项目获取云端配置
 #      name: web-admin-feign
 #      label: master
 #      profile: dev
