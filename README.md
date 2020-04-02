@@ -1,23 +1,31 @@
 # HelloSpringCloudDemo
 springboot+springcloud simple project demo
 
-ÏîÄ¿Ä¿Â¼ºÍ¹¦ÄÜ¼ò½é£º
-hello-spring-cloud-dependencies  ¸¸¼¶ÒÀÀµ£¨Í³Ò»ÒÀÀµ¹ÜÀí£©
-hello-spring-cloud-eureka  ·şÎñ×¢²áÓë·¢ÏÖ
-hello-spring-cloud-service-admin ´´½¨·şÎñÌá¹©Õß
+é¡¹ç›®ç›®å½•å’ŒåŠŸèƒ½ç®€ä»‹ï¼š
+hello-spring-cloud-dependencies  çˆ¶çº§ä¾èµ–ï¼ˆç»Ÿä¸€ä¾èµ–ç®¡ç†ï¼‰
+hello-spring-cloud-eureka  æœåŠ¡æ³¨å†Œä¸å‘ç°
+hello-spring-cloud-service-admin åˆ›å»ºæœåŠ¡æä¾›è€…
 
 hello-spring-cloud-web-ribbon 
-´´½¨·şÎñÏû·ÑÕß£¨Ribbon£©
-Ê¹ÓÃÈÛ¶ÏÆ÷·ÀÖ¹·şÎñÑ©±À£¨ribbonÊµÏÖ£©
+åˆ›å»ºæœåŠ¡æ¶ˆè´¹è€…ï¼ˆRibbonï¼‰
+ä½¿ç”¨ç†”æ–­å™¨é˜²æ­¢æœåŠ¡é›ªå´©ï¼ˆribbonå®ç°ï¼‰
 
 hello-spring-cloud-web-admin-feign 
-´´½¨·şÎñÏû·ÑÕß£¨feign£©¡¢
-Ê¹ÓÃÈÛ¶ÏÆ÷·ÀÖ¹·şÎñÑ©±À£¨feignÊµÏÖ£©¡¢
-Ê¹ÓÃÈÛ¶ÏÆ÷ÒÇ±íÅÌ¼à¿Ø£¨Hystrix ÒÇ±íÅÌ¹¦ÄÜ£©
+åˆ›å»ºæœåŠ¡æ¶ˆè´¹è€…ï¼ˆfeignï¼‰ã€
+ä½¿ç”¨ç†”æ–­å™¨é˜²æ­¢æœåŠ¡é›ªå´©ï¼ˆfeignå®ç°ï¼‰ã€
+ä½¿ç”¨ç†”æ–­å™¨ä»ªè¡¨ç›˜ç›‘æ§ï¼ˆHystrix ä»ªè¡¨ç›˜åŠŸèƒ½ï¼‰
 
 hello-spring-cloud-zuul 
-Ê¹ÓÃÂ·ÓÉÍø¹ØÍ³Ò»·ÃÎÊ½Ó¿Ú
-Ê¹ÓÃÂ·ÓÉÍø¹ØµÄ·şÎñ¹ıÂË¹¦ÄÜ
+ä½¿ç”¨è·¯ç”±ç½‘å…³ç»Ÿä¸€è®¿é—®æ¥å£
+ä½¿ç”¨è·¯ç”±ç½‘å…³çš„æœåŠ¡è¿‡æ»¤åŠŸèƒ½
+
+hello-spring-cloud-zipkin(æš‚ä¸å¯åŠ¨æœ‰bug)
+æœåŠ¡é“¾è·¯è¿½è¸ª
+
+hello-spring-cloud-admin ç›‘æ§ç®¡ç† æœåŠ¡ç«¯
+hello-spring-cloud-admin-client ç›‘æ§ç®¡ç† æµ‹è¯•å®¢æˆ·ç«¯
+åŒæ—¶hello-spring-cloud-web-admin-feignä¹ŸåŠ å…¥åˆ°äº†ç›‘æ§ç®¡ç†
+
 
 
 
