@@ -11,6 +11,11 @@ spring:
           username:  920869693@qq.com           #登录名
           password:  zhangyunfei222           #登录密码
 
+
+  #服务链路追踪
+  zipkin:
+    base-url: http://localhost:9411
+
 server:
   port: 8888   #改想端口  要需 新建 bootstrap.properties  在里面改
 
@@ -18,3 +23,5 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
+
+

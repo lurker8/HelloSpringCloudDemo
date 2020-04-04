@@ -19,7 +19,7 @@ hello-spring-cloud-zuul
 使用路由网关统一访问接口
 使用路由网关的服务过滤功能
 
-hello-spring-cloud-zipkin(暂不启动有bug)
+hello-spring-cloud-zipkin
 服务链路追踪
 
 hello-spring-cloud-admin 监控管理 服务端
