@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hello-spring-cloud-eureka
+    name: bcts-eureka
 #  boot:
 #    admin:
 #      client:
